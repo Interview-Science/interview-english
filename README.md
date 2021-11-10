@@ -43,19 +43,26 @@
 |  cumulative   | 累积 | cumulative sum |
 |  consecutive    | 连续 | consecutive numbers |
 |  coordinate    | 坐标 | coordinate system |
+| circumference | 周长 | circumference of this circle |
 |  distinct   | 唯一 | distinct character |
 |  decimal   | 十进制 | decimal numbers |
 |  hexadecimal    | 十六进制 | hexadecimal to decimal |
+| inverse | 倒数 | a is the inverse of b |
 |  octal   | 八进制 | octal to decimal  |
+| opposite | 相反数 | the opposite of 10 is -10 |
 |  dense   | 稠密 | dense matrix |
 |  sparse   | 稀疏 | sparse matrix  |
+|  demominator | 分母 / 除数 |  common denominator |
+|  numerator | 分子 / 被除数 | in the fraction 5/9, the numerator is 5 |
 |  palindromic   | 回文 | palindromic string |
 |  prefix / suffix   | 前缀 / 后缀 | prefix tree |
 |  monotonic    | 单调 | monotonic stack |
 |  precedence    | 优先级 | operator precedence |
 |  operand   | 操作数 | operand and operator |
 |  operator   | 操作符 | operand and operator |
+| volume | 体积 | the volume of this cylinder |
 |  x-axis   | x 轴 | x-axis and y-axis |
+
 
 #### 数学
 
@@ -66,7 +73,9 @@
 |  2 * 1   | two times one | 
 |  4 / 2   | four divided by two | 
 |  2 ^ 4   | two to the power of four / four power of two | 
-|  a'   	 | a prime | 
+|  x'   	 | x prime | 
+|  x''   	 | x double prime | 
+|  x̄       | x bar |
 
 #### 时空复杂度
 
@@ -104,10 +113,13 @@
 ## 推荐资源
 
 #### 视频
+- [MATH & GEOMETRY Vocabulary and Terminology in English](https://www.youtube.com/watch?v=1ia0LARVYT8)
 - [Programming Words You Should Know](https://www.youtube.com/watch?v=es4DYTFdqlg)
 - [标点符号、特殊符号英文 | English Punctuation](https://www.youtube.com/watch?v=Tlv2hwqjMXA)
+- [常见数学公式及符号的英文读法](https://www.bilibili.com/video/BV1ra4y1e76L/)
 
 #### 文字
+- [mathematics: Mathematical terms](https://www.collinsdictionary.com/word-lists/mathematics-mathematical-terms)
 - [Essential English Words & Phrases To Learn For A Job Interview](https://englishlive.ef.com/blog/career-english/essential-english-words-phrases-learn-job-interview/)
 - [10 Common Behavioral Interview Questions](https://www.thebalancecareers.com/top-behavioral-interview-questions-2059618)
 - [35 Behavioral Interview Questions to Prepare For (with Example Answers)](https://www.indeed.com/career-advice/interviewing/most-common-behavioral-interview-questions-and-answers)
