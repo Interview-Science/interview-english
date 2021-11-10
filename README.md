@@ -5,7 +5,9 @@
 1. 欢迎通过建立 issue 来添加常用词，例子或者修正错误
 2. 感谢 Vicky Cheng 对此仓库的贡献
 
-## 标点符号
+## 技术相关
+
+#### 标点符号
 
 |  内容   | 单词  | 读音 |
 |  ----  | ----  | --- |
@@ -32,7 +34,7 @@
 | []     |   square brackets | |
 
 
-## 算法生词
+#### 算法题目
 
 |  内容   | 含义  | 例子 |
 |  ----  | ----  | --- |
@@ -55,7 +57,33 @@
 |  operator   | 操作符 | operand and operator |
 |  x-axis   | x 轴 | x-axis and y-axis |
 
-## 非技术生词
+#### 数学
+
+|  内容   | 读法  | 
+|  ----  | ----  | 
+|  2 + 1   | two plus one / add two to one | 
+|  2 - 1   | two minus one /  subtract 2 from 1 | 
+|  2 * 1   | two times one | 
+|  4 / 2   | four divided by two | 
+|  2 ^ 4   | two to the power of four / four power of two | 
+|  a'   	 | a prime | 
+
+#### 时空复杂度
+
+|  内容   | 读法  | 
+|  ----  | ----  | 
+|  O(n)  |  O of n | 
+|  O(n * sqrt(n))  |  O of n (times) square root of n  | 
+|  O(n * lg(n))  |  O of n (times) log n | 
+|  O(lg(n))  |  O of log n | 
+|  O(ln(n))   | O of natural log of n | 
+|  O(1/n)   | O of 1 over n | 
+|  O(n^2)   | O of n squared | 
+|  O(n^3)   | O of n cubed | 
+
+## 非技术相关
+
+#### 关键字
 
 |  内容   | 含义  | 例子 |
 |  ----  | ----  | --- |
@@ -73,32 +101,18 @@
 | responsibilities | 职责 | How did you manage multiple responsibilities?|
 
 
-## 数学
+## 推荐资源
 
-|  内容   | 读法  | 
-|  ----  | ----  | 
-|  2 + 1   | two plus one / add two to one | 
-|  2 - 1   | two minus one /  subtract 2 from 1 | 
-|  2 * 1   | two times one | 
-|  4 / 2   | four divided by two | 
-|  2 ^ 4   | two to the power of four / four power of two | 
-|  a'   	 | a prime | 
+#### 视频
+- [Programming Words You Should Know](https://www.youtube.com/watch?v=es4DYTFdqlg)
+- [标点符号、特殊符号英文 | English Punctuation](https://www.youtube.com/watch?v=Tlv2hwqjMXA)
 
-## 时空复杂度
+#### 文字
+- [Essential English Words & Phrases To Learn For A Job Interview](https://englishlive.ef.com/blog/career-english/essential-english-words-phrases-learn-job-interview/)
+- [10 Common Behavioral Interview Questions](https://www.thebalancecareers.com/top-behavioral-interview-questions-2059618)
+- [35 Behavioral Interview Questions to Prepare For (with Example Answers)](https://www.indeed.com/career-advice/interviewing/most-common-behavioral-interview-questions-and-answers)
 
-|  内容   | 读法  | 
-|  ----  | ----  | 
-|  O(n)  |  O of n | 
-|  O(n * sqrt(n))  |  O of n (times) square root of n  | 
-|  O(n * lg(n))  |  O of n (times) log n | 
-|  O(lg(n))  |  O of log n | 
-|  O(ln(n))   | O of natural log of n | 
-|  O(1/n)   | O of 1 over n | 
-|  O(n^2)   | O of n squared | 
-|  O(n^3)   | O of n cubed | 
-
-
-## 听力练习
+#### 听力练习
 
 - [Abdul Bari ](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw/videos)
 - [Tushar Roy - Coding Made Simple](https://www.youtube.com/user/tusharroy2525/videos)
