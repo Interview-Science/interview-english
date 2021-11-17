@@ -1,5 +1,7 @@
 # 面试中的常用英语
 
+欢迎浏览：[Interview Science - 专为国外大厂撰写的求职指南](https://interview-science.org/) 了解更多资讯
+
 ## 如何贡献
 
 1. 欢迎通过建立 issue 来添加常用词，例子或者修正错误
@@ -128,3 +130,4 @@
 
 - [Abdul Bari ](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw/videos)
 - [Tushar Roy - Coding Made Simple](https://www.youtube.com/user/tusharroy2525/videos)
+
