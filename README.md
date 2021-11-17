@@ -22,7 +22,7 @@
 | \     |   backslash | |
 | <     |   less than sign | |
 | >     |   greater than sign | |
-| #     |   pund sign / hashtag | |
+| #     |   pound sign / hashtag | |
 | %     |   percent sign | |
 | &     |   ampersand | [/ˈæm.pɚ.sænd/](https://dictionary.cambridge.org/dictionary/english/ampersand)|
 | *     |   star sign / asterisk | [/ˈæs.tɚ.ɪsk/](https://dictionary.cambridge.org/dictionary/english/asterisk) |
@@ -52,7 +52,7 @@
 | opposite | 相反数 | the opposite of 10 is -10 |
 |  dense   | 稠密 | dense matrix |
 |  sparse   | 稀疏 | sparse matrix  |
-|  demominator | 分母 / 除数 |  common denominator |
+|  denominator | 分母 / 除数 |  common denominator |
 |  numerator | 分子 / 被除数 | in the fraction 5/9, the numerator is 5 |
 |  palindromic   | 回文 | palindromic string |
 |  prefix / suffix   | 前缀 / 后缀 | prefix tree |
@@ -126,5 +126,5 @@
 
 #### 听力练习
 
-- [Abdul Bari ](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw/videos)
+- [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw/videos)
 - [Tushar Roy - Coding Made Simple](https://www.youtube.com/user/tusharroy2525/videos)
