@@ -94,6 +94,25 @@
 
 ## 非技术相关
 
+#### 常用表达
+
+|  口语表达   | 含义 |用途  |
+|  ----  | ----  | --- |
+| Just to make sure we're all on the same page, ... | 我想确认一下，我们现在在谈的是... | 沟通中，确保大家在说同样的事情 |
+| Looks like we are all caught up | 看起来我们现在都清楚了 | 阶段性总结 |
+| What is the word for it | 口边的那个词是什么？ | 当遇到不知道如何表达某个含义的时候，用于过渡 |
+| I haven't thought about this problem yet, let me think about it | 我还没想过这个问题，让我思考下？ | 对于没想过的问题，用于过渡 |
+| Let me get back to you on that. I can't give you an exact answer for now | 我晚点再回复你，我现在没法给你一个准确的答案 |  对于需要考虑的问题，用于过渡 |
+
+
+|  书面表达   | 含义 |用途  |
+|  ----  | ----  | --- |
+| Thank you for pointing that out. I really appreciate your help | 谢谢你指出来，我非常感谢你的帮助 | 表达感谢 |
+| Is now a good time to talk about the project real quick? | 现在有时间快速沟通一下项目吗？ | 电话之前先询问对方是否有时间 |
+| I want to begin by/with, and then I'll move on to, next we're talking about, and finally we'll land on | 我想先从这个开始，然后讨论那个，最后是 ... | 开会前先讲清楚这次会议包括哪些主要内容 |
+| I just want to quickly touch base with you. Have you got a chance to go over my draft yet? is there any feedback? | 我想和你聊一下，你有时间看过我的草稿了吗？感觉如何？ | 跟踪反馈 |
+
+
 #### 关键字
 
 |  内容   | 含义  | 例子 |
@@ -111,13 +130,15 @@
 | persevere | 坚持 |  persevere for study |
 | responsibilities | 职责 | How did you manage multiple responsibilities?|
 
-
 ## 推荐资源
 
 #### 视频
 - [MATH & GEOMETRY Vocabulary and Terminology in English](https://www.youtube.com/watch?v=1ia0LARVYT8)
 - [Programming Words You Should Know](https://www.youtube.com/watch?v=es4DYTFdqlg)
 - [标点符号、特殊符号英文 | English Punctuation](https://www.youtube.com/watch?v=Tlv2hwqjMXA)
+- [用流利的英语写和回复商务邮件| Email English | 公司合作、回复、同事间英语邮件](https://www.youtube.com/watch?v=fA6ECF_50u0&list=PLYWlpZe1L2k3V8YVBMp8pEoYMcE1yO6pb)
+- [商务英语1 - 会议常见英语俚语、习语、表达 | Business English](https://www.youtube.com/watch?v=1CVZYs6Pzdk&list=PLYWlpZe1L2k3V8YVBMp8pEoYMcE1yO6pb&index=8)
+- [用流利的英语电话面试 | Phone Interview English](https://www.youtube.com/watch?v=6_R_mhEGkUc&list=PLYWlpZe1L2k3V8YVBMp8pEoYMcE1yO6pb&index=9)
 - [常见数学公式及符号的英文读法](https://www.bilibili.com/video/BV1ra4y1e76L/)
 
 #### 文字
@@ -130,4 +151,3 @@
 
 - [Abdul Bari ](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw/videos)
 - [Tushar Roy - Coding Made Simple](https://www.youtube.com/user/tusharroy2525/videos)
-
