@@ -102,6 +102,7 @@
 | Looks like we are all caught up | 看起来我们现在都清楚了 | 阶段性总结 |
 | What is the word for it | 口边的那个词是什么？ | 当遇到不知道如何表达某个含义的时候，用于过渡 |
 | I haven't thought about this problem yet, let me think about it | 我还没想过这个问题，让我思考下？ | 对于没想过的问题，用于过渡 |
+| I can give you an example of ..., is that what you’re asking? | 确认问题 | 确认这个例子是面试官想了解的 |
 | Let me get back to you on that. I can't give you an exact answer for now | 我晚点再回复你，我现在没法给你一个准确的答案 |  对于需要考虑的问题，用于过渡 |
 
 
