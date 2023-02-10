@@ -28,12 +28,16 @@
 | %     |   percent sign | |
 | &     |   ampersand | [/ˈæm.pɚ.sænd/](https://dictionary.cambridge.org/dictionary/english/ampersand)|
 | *     |   star sign / asterisk | [/ˈæs.tɚ.ɪsk/](https://dictionary.cambridge.org/dictionary/english/asterisk) |
-| "       |   quotation mark | |
+| "       | quotation mark / double quotes | |
+| ' | single quotes | |
 | ?       |   question mark | |
 | !       |   exclamation mark | |
 | ()      |   round brackets / parentheses | |
 | {}      |   braces | [/ˈbreɪ·sɪz/](https://dictionary.cambridge.org/dictionary/english/braces) |
 | []     |   square brackets | |
+| _ | underscore | |
+| == | double equal signs | |
+| === | triple equal signs | |
 
 
 #### 英语单词
