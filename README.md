@@ -137,6 +137,7 @@
 - [MATH & GEOMETRY Vocabulary and Terminology in English](https://www.youtube.com/watch?v=1ia0LARVYT8)
 - [Programming Words You Should Know](https://www.youtube.com/watch?v=es4DYTFdqlg)
 - [10 Phrases in Business English](https://www.youtube.com/watch?v=yVSAplZFYRM)
+- [36 MUST-HAVE English Phrases for Online Meetings | Business English Vocabulary](https://www.youtube.com/watch?v=QOUOsneeB-w)
 - [50 PHRASES IN BUSINESS ENGLISH](https://www.youtube.com/watch?v=vkmAhUtoyDw)
 - [Business English Expressions, Idioms and Phrasal Verbs](https://www.youtube.com/watch?v=FJS0sYuig6c)
 - [How to Interview for a Job in American English, part 1/5](https://www.youtube.com/watch?v=yBtMwyQFXwA)
