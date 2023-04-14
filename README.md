@@ -136,10 +136,16 @@
 #### 视频
 - [MATH & GEOMETRY Vocabulary and Terminology in English](https://www.youtube.com/watch?v=1ia0LARVYT8)
 - [Programming Words You Should Know](https://www.youtube.com/watch?v=es4DYTFdqlg)
+- [10 Phrases in Business English](https://www.youtube.com/watch?v=yVSAplZFYRM)
+- [50 PHRASES IN BUSINESS ENGLISH](https://www.youtube.com/watch?v=vkmAhUtoyDw)
+- [Business English Expressions, Idioms and Phrasal Verbs](https://www.youtube.com/watch?v=FJS0sYuig6c)
+- [How to Interview for a Job in American English, part 1/5](https://www.youtube.com/watch?v=yBtMwyQFXwA)
+- [50 Advanced Business English Phrases and Expressions You Should Know](https://www.youtube.com/watch?v=qj9uj1FRinw)
 - [标点符号、特殊符号英文 | English Punctuation](https://www.youtube.com/watch?v=Tlv2hwqjMXA)
 - [用流利的英语写和回复商务邮件| Email English | 公司合作、回复、同事间英语邮件](https://www.youtube.com/watch?v=fA6ECF_50u0&list=PLYWlpZe1L2k3V8YVBMp8pEoYMcE1yO6pb)
 - [商务英语1 - 会议常见英语俚语、习语、表达 | Business English](https://www.youtube.com/watch?v=1CVZYs6Pzdk&list=PLYWlpZe1L2k3V8YVBMp8pEoYMcE1yO6pb&index=8)
 - [用流利的英语电话面试 | Phone Interview English](https://www.youtube.com/watch?v=6_R_mhEGkUc&list=PLYWlpZe1L2k3V8YVBMp8pEoYMcE1yO6pb&index=9)
+- [商务英语 - Mary Zou](https://www.youtube.com/@MaryZou/search?query=%E5%95%86%E5%8A%A1)
 - [常见数学公式及符号的英文读法](https://www.bilibili.com/video/BV1ra4y1e76L/)
 
 #### 文字
