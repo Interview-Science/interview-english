@@ -28,18 +28,23 @@
 | %     |   percent sign | |
 | &     |   ampersand | [/ˈæm.pɚ.sænd/](https://dictionary.cambridge.org/dictionary/english/ampersand)|
 | *     |   star sign / asterisk | [/ˈæs.tɚ.ɪsk/](https://dictionary.cambridge.org/dictionary/english/asterisk) |
-| "       |   quotation mark | |
+| "       | quotation mark / double quotes | |
+| ' | single quotes | |
 | ?       |   question mark | |
 | !       |   exclamation mark | |
 | ()      |   round brackets / parentheses | |
 | {}      |   braces | [/ˈbreɪ·sɪz/](https://dictionary.cambridge.org/dictionary/english/braces) |
 | []     |   square brackets | |
+| _ | underscore | |
+| == | double equal signs | |
+| === | triple equal signs | |
 
 
-#### 算法题目
+#### 英语单词
 
 |  内容   | 含义  | 例子 |
 |  ----  | ----  | --- |
+|  asymmetric    | 非对称 | asymmetric encryption |
 | clockwise | 顺时针 |  clockwise rotation |
 |  counterclockwise   | 逆时针 | counterclockwise rotation |
 |  cumulative   | 累积 | cumulative sum |
@@ -49,6 +54,7 @@
 |  distinct   | 唯一 | distinct character |
 |  decimal   | 十进制 | decimal numbers |
 |  hexadecimal    | 十六进制 | hexadecimal to decimal |
+| idempotent | 幂等 | idempotent operation |
 | inverse | 倒数 | a is the inverse of b |
 |  octal   | 八进制 | octal to decimal  |
 | opposite | 相反数 | the opposite of 10 is -10 |
@@ -62,6 +68,7 @@
 |  precedence    | 优先级 | operator precedence |
 |  operand   | 操作数 | operand and operator |
 |  operator   | 操作符 | operand and operator |
+|  symmetric    | 对称 | symmetric encryption |
 | volume | 体积 | the volume of this cylinder |
 |  x-axis   | x 轴 | x-axis and y-axis |
 
