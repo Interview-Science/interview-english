@@ -77,7 +77,7 @@
 |  ----   | ----  |
 | Job Description (JD)   | 岗位描述 |
 | Non-disclosure agreement (NDA)   | 保密协议 |
-| Notion period  | 离职交接时长 |
+| Notice period  | 离职交接时长 |
 | Probation period   | 试用期 |
 | Restricted Stock Unit (RSU)   | 限制性股票 |
 | Paid Time Off (PTO)   | 带薪休假 |
