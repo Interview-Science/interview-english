@@ -53,6 +53,7 @@
 | circumference | 周长 | circumference of this circle |
 |  distinct   | 唯一 | distinct character |
 |  decimal   | 十进制 | decimal numbers |
+|  diagonal  | 对角线 | diagonal traverse the matrix |
 |  hexadecimal    | 十六进制 | hexadecimal to decimal |
 | idempotent | 幂等 | idempotent operation |
 | inverse | 倒数 | a is the inverse of b |
