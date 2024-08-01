@@ -169,7 +169,7 @@
 |  解释分析过程  |  <ul><li>To develop a viable solution, I first considered the underlying data structures and algorithms that would best fit the requirements.</li><li>I approached this problem by breaking it down into smaller and easier problem.</li><li>My thought process involved breaking down the problem into smaller, more manageable sub-problems, and developing solutions for each one before piecing them together in a more comprehensive solution.</li></ul>|
 |  提示  |  <ul><li>I'm trying to solve this project using X, Y or Z. Am I on the right track?</li><li>Are there any specific algorithms or data structures you recommend I consider for this task?</li><li>Are there any particular parts of the problem that I should focus on or prioritize?</li><li>Do you have any suggestions for optimizing my solution, either in terms of runtime or memory usage?</li><li>Would you mind walking me through a particular step or section of the algorithm where I may be struggling?</li></ul>|
 |  解释  |  <ul><li>Let me walk you through the logic behind this section of the code.</li><li>The reason why I chose this data structure/algorithm is because...</li><li>If you have any questions about how this code works, feel free to ask me at any point.</li></ul> |
-|  请求反馈  |  <ul><li>Can you suggest any specific areas or functions of the code that could use improvement?</li><li>Can you offer any suggestions for optimizing the memory usage or runtime of the algorithm?</li><li>Are there any specific edge cases or failure scenarios that I should be testing?</li></ul> |
+|  请求反馈  |  <ul><li>Can you suggest any specific areas or functions of the code that could use improvement?</li><li>Do you think I understand and solve the problem fast enough? Anything I can do to improve?</li><li>Did I clearly explain my idea while solving the problems? What can I do to improve our communication?</li><li>Are there any specific edge cases or failure scenarios that I should be testing?</li></ul> |
 
 
 ### 系统设计
@@ -181,7 +181,7 @@
 |  非业务要求  |  <ul><li>What metrics or benchmarks will be used to evaluate performance against non-functional requirements?</li></ul>|
 |  提示  |  <ul><li>Are there any particular design patterns or techniques that we should explore further?</li><li>Could you give me a hint on what the potential trade-offs could be for different approaches to this problem?</li><li>Can you provide any feedback on my current approach and suggest potential adjustments or improvements?</li></ul>|
 |  解释  |  <ul><li>I utilize microservices architecture to ensure scalability and ease of maintenance for the system.</li><li>To ensure performance and efficiency, we use caching mechanisms and load balancing techniques in our architecture.</li></ul> |
-|  请求反馈  |  <ul><li>Do you have any suggestions for improving the performance and efficiency of the architecture?</li><li>Do you have any recommendations for improving the fault tolerance and redundancy of the architecture?</li><li>Can you give me feedback on the existing data storage solutions and suggest potential improvements?</li></ul> |
+|  请求反馈  |  <ul><li>Do you have any suggestions for improving the performance and efficiency of the architecture?</li><li>Did I effectively explain the trade-offs of my design choices? How can I better articulate these in future discussions?</li><li>Do you have any recommendations for improving the fault tolerance and redundancy of the architecture?</li><li>Can you give me feedback on the existing data storage solutions and suggest potential improvements?</li></ul> |
 
 ## 推荐资源
 
